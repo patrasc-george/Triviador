@@ -1,3 +1,5 @@
+# Triviador
+
 The Triviador application is a strategy quiz game that involves multiple players competing to control regions on a map by answering trivia questions. The game's primary objective is to gain control over as many regions as possible, accumulate points, and ultimately rank higher than other players by the end of the game. The gameplay is divided into several stages, including base selection, region conquest, and duels.
 
 In the initial setup, the game reads trivia questions from a file and initializes the game environment, including the map and the players. Each player logs in with a username and password. The map is created with a specific number of rows and columns based on the number of players participating, ensuring a balanced game environment. Players then proceed to the base selection stage, where each player selects a region to establish their base. This selection is determined by answering a numerical trivia question, with the closest answer to the correct one gaining the privilege of choosing first.
